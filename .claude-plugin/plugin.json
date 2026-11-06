@@ -1,0 +1,9 @@
+{
+  "name": "openai-image-4-claude",
+  "description": "Generate and edit images using OpenAI's image models (gpt-image) with an economy tier by default and a confirmed premium tier",
+  "version": "0.1.0",
+  "author": {
+    "name": "waqasxh"
+  },
+  "license": "MIT"
+}

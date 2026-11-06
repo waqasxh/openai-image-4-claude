@@ -1,0 +1,15 @@
+[project]
+name = "openai-image-4-claude"
+version = "0.1.0"
+description = "Claude Code plugin for generating images with OpenAI's image API"
+requires-python = ">=3.10"
+dependencies = [
+    "openai>=1.60.0",
+    "python-dotenv>=1.0.0",
+    "pillow>=10.0.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0.0",
+]
